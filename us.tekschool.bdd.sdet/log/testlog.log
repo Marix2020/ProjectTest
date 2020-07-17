@@ -1,0 +1,13 @@
+2020-06-23 20:07:05,638 - Logger_File -INFO - click on Register
+2020-06-25 06:30:05,250 - Logger_File -INFO - click on Register
+2020-06-25 06:40:25,331 - Logger_File -INFO - click on Register
+2020-06-25 06:40:27,247 - Logger_File -INFO - Register Form was filled susccesfully
+2020-06-25 06:40:27,432 - Logger_File -INFO - yes to susbscribe is selected
+2020-06-25 06:40:27,746 - Logger_File -INFO - privacy policy is selected
+2020-06-25 06:40:28,850 - Logger_File -INFO - continue button clicked
+2020-06-25 06:44:58,154 - Logger_File -INFO - click on Register
+2020-06-25 06:44:59,999 - Logger_File -INFO - Register Form was filled susccesfully
+2020-06-25 06:45:00,212 - Logger_File -INFO - yes to susbscribe is selected
+2020-06-25 06:45:00,433 - Logger_File -INFO - privacy policy is selected
+2020-06-25 06:45:01,713 - Logger_File -INFO - continue button clicked
+2020-06-25 06:45:06,815 - Logger_File -INFO - Assertion passed
