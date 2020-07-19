@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "classpath:Features", // features tells cucumber options where are features are located
-		glue = {"@stepDefinitions"}, // glue tells cucumber options where Step Definitions is located
+		glue = { "stepDefinitions" }, // glue tells cucumber options where Step Definitions is located
 		tags = {"@registerTest"},
 		dryRun = false,//dry run if sets to false checks if all steps in feature files has step definitions
 		monochrome = true, // if set to true, makes the console output readable
@@ -18,9 +18,7 @@ import cucumber.api.junit.Cucumber;
 		        "json:target/cucumber-reports/CucumberTestReport.json",
 		        "rerun:target/cucumber-reports/rerun.txt"
 		},
-		plugin = "json:target/cucumber-reports/CucumberTestReport.json"
-		
-)
+		plugin = "json:target/cucumber-reports/CucumberTestReport.json")
 
 public class TestRunner {
 
